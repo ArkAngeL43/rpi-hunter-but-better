@@ -1,4 +1,27 @@
 # rpi-hunter
+
+
+--------------------THIS IS STILL RPI HUNTER HOWEVER I HAVE RECREATED IT IN PYTHON3, AS PYTHON2 WAS VERY BUGGED, AND THE OG OWNER HAS NOT RELEASED A NEWER VERSION OF TRHE SCRIPT I DO NOT OWN THE SCRIPT BUT I DID CHANGE THE CODE, ALL CREDIT GOES TO OG OWNER BUSSES-CAN-FLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Automate discovering and dropping payloads on LAN Raspberry Pi's via ssh
 * Or, the honest title: Automating sshpass for command delivery.
 
